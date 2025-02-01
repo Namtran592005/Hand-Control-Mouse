@@ -1,10 +1,8 @@
 # Hand Control Mouse
 ---
 
-## 🇻🇳 Tiếng Việt
-
 ### 1. Tổng Quan
-Hand Control Mouse là một hệ thống điều khiển máy tính thông minh sử dụng cử chỉ tay thông qua camera. Chương trình cho phép người dùng điều khiển con trỏ chuột và thực hiện các thao tác cơ bản mà không cần chạm vào chuột vật lý.
+Hand Control Mouse là một Chương trình điều khiển máy tính thông minh sử dụng cử chỉ tay thông qua camera. Chương trình cho phép người dùng điều khiển con trỏ chuột và thực hiện các thao tác cơ bản mà không cần chạm vào chuột vật lý.
 
 ### 2. Công Nghệ Cốt Lõi
 
