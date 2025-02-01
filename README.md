@@ -1,12 +1,10 @@
-# Hand Control System V3
-### Version: 3.0.0 | Developer: Namtran5905
-
+# Hand Control System
 ---
 
 ## 🇻🇳 Tiếng Việt
 
 ### 1. Tổng Quan
-Hand Control V3 là một hệ thống điều khiển máy tính thông minh sử dụng cử chỉ tay thông qua camera. Chương trình cho phép người dùng điều khiển con trỏ chuột và thực hiện các thao tác cơ bản mà không cần chạm vào chuột vật lý.
+Hand Control là một hệ thống điều khiển máy tính thông minh sử dụng cử chỉ tay thông qua camera. Chương trình cho phép người dùng điều khiển con trỏ chuột và thực hiện các thao tác cơ bản mà không cần chạm vào chuột vật lý.
 
 ### 2. Công Nghệ Cốt Lõi
 
@@ -113,6 +111,4 @@ Hand Control V3 là một hệ thống điều khiển máy tính thông minh s�
 2. Nền: Tránh nền phức tạp
 3. Khoảng cách: 30-80cm từ camera
 4. Góc camera: Thẳng với bàn tay
-
-[English, Japanese, Chinese, and Korean translations continue with the same detailed structure...]
 
