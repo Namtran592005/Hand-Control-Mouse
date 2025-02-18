@@ -65,19 +65,6 @@ Hand Control Mouse là một Chương trình điều khiển máy tính thông m
 
 ### 5. Yêu Cầu Hệ Thống
 
-#### 5.1. Phần Cứng Tối Thiểu
-- CPU: Intel Core i5 gen 8 hoặc tương đương
-- RAM: 8GB
-- Camera: 30 FPS, độ phân giải 720p
-- GPU: NVIDIA GTX 1050 hoặc tương đương
-
-#### 5.2. Phần Cứng Đề Xuất
-- CPU: Intel Core i7 gen 10 trở lên
-- RAM: 16GB
-- Camera: 60 FPS, độ phân giải 1080p
-- GPU: NVIDIA GTX 1660 hoặc tốt hơn
-
-#### 5.3. Phần Mềm
 - Windows 10/11 64-bit
 - Python 3.8 trở lên
 - Các thư viện:
@@ -98,7 +85,7 @@ Hand Control Mouse là một Chương trình điều khiển máy tính thông m
 #### 6.2. Độ Chính Xác
 - Nhận dạng cử chỉ: 
 - Định vị con trỏ: ±5 pixels
-- Tỷ lệ nhận diện sai: 
+- Tỷ lệ nhận diện sai: 80% :)))))
 
 ### 7. Phím Tắt và Điều Khiển
 - **Ctrl + Alt + X**: Thoát chương trình
